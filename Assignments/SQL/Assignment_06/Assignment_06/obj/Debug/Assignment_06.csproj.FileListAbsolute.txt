@@ -1,0 +1,7 @@
+D:\Training\Assignments\SQL\Assignment_06\Assignment_06\bin\Debug\Assignment_06.exe.config
+D:\Training\Assignments\SQL\Assignment_06\Assignment_06\bin\Debug\Assignment_06.exe
+D:\Training\Assignments\SQL\Assignment_06\Assignment_06\bin\Debug\Assignment_06.pdb
+D:\Training\Assignments\SQL\Assignment_06\Assignment_06\obj\Debug\Assignment_06.csproj.AssemblyReference.cache
+D:\Training\Assignments\SQL\Assignment_06\Assignment_06\obj\Debug\Assignment_06.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\SQL\Assignment_06\Assignment_06\obj\Debug\Assignment_06.exe
+D:\Training\Assignments\SQL\Assignment_06\Assignment_06\obj\Debug\Assignment_06.pdb

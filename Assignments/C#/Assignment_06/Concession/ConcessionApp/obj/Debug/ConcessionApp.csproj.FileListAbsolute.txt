@@ -1,0 +1,10 @@
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\bin\Debug\ConcessionApp.exe.config
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\bin\Debug\ConcessionApp.exe
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\bin\Debug\ConcessionApp.pdb
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\bin\Debug\Concession.dll
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\bin\Debug\Concession.pdb
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\obj\Debug\ConcessionApp.csproj.AssemblyReference.cache
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\obj\Debug\ConcessionApp.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\obj\Debug\ConcessionApp.csproj.CopyComplete
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\obj\Debug\ConcessionApp.exe
+D:\Training\Assignments\C#\Assignment_06\Concession\ConcessionApp\obj\Debug\ConcessionApp.pdb

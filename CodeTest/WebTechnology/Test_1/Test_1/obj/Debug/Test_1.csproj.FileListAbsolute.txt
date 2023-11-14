@@ -1,0 +1,7 @@
+D:\Training\Code_Base_test\WebTechnology\Test_1\Test_1\bin\Debug\Test_1.exe.config
+D:\Training\Code_Base_test\WebTechnology\Test_1\Test_1\bin\Debug\Test_1.exe
+D:\Training\Code_Base_test\WebTechnology\Test_1\Test_1\bin\Debug\Test_1.pdb
+D:\Training\Code_Base_test\WebTechnology\Test_1\Test_1\obj\Debug\Test_1.csproj.AssemblyReference.cache
+D:\Training\Code_Base_test\WebTechnology\Test_1\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+D:\Training\Code_Base_test\WebTechnology\Test_1\Test_1\obj\Debug\Test_1.exe
+D:\Training\Code_Base_test\WebTechnology\Test_1\Test_1\obj\Debug\Test_1.pdb

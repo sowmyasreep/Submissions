@@ -1,0 +1,32 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Multiplication and Division Calculator</title>
+    <script>
+        function multiply() {
+            var num1 = parseFloat(document.getElementById("num1").value);
+            var num2 = parseFloat(document.getElementById("num2").value);
+            var result = num1 * num2;
+            document.getElementById("result").innerHTML = "Multiply: " + result;
+        }
+
+        function divide() {
+            var num1 = parseFloat(document.getElementById("num1").value);
+            var num2 = parseFloat(document.getElementById("num2").value);
+            var result = num1 / num2;
+            document.getElementById("result").innerHTML = "Divide: " + result;
+        }
+    </script>
+</head>
+<body>
+    <form>
+        1st Number: <input type="number" id="num1"><br>
+        2nd Number: <input type="number" id="num2"><br><br>
+        <input type="button" value="Multiply" onclick="multiply()">&nbsp;
+        <input type="button" value="Divide" onclick="divide()"><br><br>
+        The Result Is:<br>
+        <div id="result"></div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Question_02.Models.Movie>
+@{ ViewBag.Title = "Enter Year"; }
+
+<h2>Enter Year</h2>
+
+@using (Html.BeginForm("MoviesByYear", "Movies", FormMethod.Get))
+{
+<div>
+    <label for="year">Enter Year:</label>
+    <input type="number" id="year" name="year" />
+    <input type="submit" value="Submit" />
+</div>}
+
+@if (ViewBag.Movies != null)
+{
+<h3>Movies Released in @ViewBag.SelectedYear</h3>
+                <table>
+                    <tr>
+                        <th>Movie ID</th>
+                        <th>Movie Name</th>
+                        <th>Release Date</th>
+                    </tr>
+                    @foreach (var movie in ViewBag.Movies)
+                    {
+    <tr>
+        <td>@movie.Mid</td>
+        <td>@movie.Moviename</td>
+        <td>@movie.DateofRelease.ToString("MM/dd/yyyy")</td>
+    </tr>
+}
+                </table>
+}
